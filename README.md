@@ -10,6 +10,7 @@ I'm also using a Trello board to organise my project - [scrabble-ng2](https://tr
 
 Docs are located @[http://ionicframework.com/docs/v2](http://ionicframework.com/docs/v2)
 
+
 ## Objectives
 
 * Create a working IOS app
