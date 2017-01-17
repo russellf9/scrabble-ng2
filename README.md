@@ -10,6 +10,8 @@ I'm also using a Trello board to organise my project - [scrabble-ng2](https://tr
 
 Docs are located @[http://ionicframework.com/docs/v2](http://ionicframework.com/docs/v2)
 
+Also, looking at https://angular.io/docs/ts/latest/tutorial/toh-pt3.html
+
 
 ## Objectives
 
@@ -22,6 +24,10 @@ Docs are located @[http://ionicframework.com/docs/v2](http://ionicframework.com/
 
 
 ## Installation
+
+```
+git add https://github.com/russellf9/scrabble-ng2.git
+```
 
 ## Viewing the app in a browser
 
